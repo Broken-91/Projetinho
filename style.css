@@ -17,13 +17,19 @@ body {
 h1 {
     font-family: "Open Sans", sans-serif;
     font-weight: 700;
-    font-size: 16px;
+    font-size: 40px;
     line-height: 1.5;
-    color: #000000;
+    color: #ffffff;
+      font-size: 80px;
+      font-weight: 900;
+    color: #ffffff;
+      margin: 0;
+      letter-spacing: -2px;
+    text-align: center;
 }
 header{
     background-color: #d50032;
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 20px;
     text-align: center;
 }
